@@ -1,3 +1,4 @@
+![image alt](https://github.com/AzadSingh818/AzadSingh818/blob/master/github-header-image%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Azad Singh</h1>
 <h3 align="center">A passionate software Engineer developer from India</h3>
 
